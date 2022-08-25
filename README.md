@@ -34,4 +34,4 @@ Support Vector Classifier - The objective of a Linear SVC (Support Vector Classi
 
 Random Forest Classifier - A random forest is a meta estimator that fits a number of decision tree classifiers on various sub-samples of the dataset and uses averaging to improve the predictive accuracy and control over-fitting.
 
-XGBoost - XGBoost is an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable. It implements machine learning algorithms under the Gradient Boosting framework.
+
