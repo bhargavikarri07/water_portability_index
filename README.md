@@ -1,8 +1,6 @@
 # water_portability_index
 
-# Objective
-
-To understand what constitutes safe, potable water and distinguish between potable and non-potable water by applying machine learning techniques.
+The main objective of this project is to understand what constitutes safe, potable water and distinguish between potable and non-potable water by applying machine learning techniques.
 
 # Dataset
 
@@ -33,5 +31,3 @@ Potability: Indicates if water is safe for human consumption. Potable - 1 and No
 Support Vector Classifier - The objective of a Linear SVC (Support Vector Classifier) is to fit the data you provide, returning a "best fit" hyperplane that divides, or categorizes your data.
 
 Random Forest Classifier - A random forest is a meta estimator that fits a number of decision tree classifiers on various sub-samples of the dataset and uses averaging to improve the predictive accuracy and control over-fitting.
-
-
