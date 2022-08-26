@@ -1,6 +1,6 @@
 # water_portability_index
 
-The main objective of this project is to understand what constitutes safe, potable water and distinguish between potable and non-potable water by applying machine learning techniques.
+The main objective of this project is to understand what constitutes safe, potable water and distinguish between potable and non-potable water by applying machine learning techniques such as Random Forest and Support Vector Classifier.
 
 # Dataset
 
